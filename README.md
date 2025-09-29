@@ -1,4 +1,4 @@
-# SCG-PHD Annotation GUI in MATLAB
+# SCG Annotation GUI in MATLAB
 
 This repository contains the source code for the "SCG Annotation GUI," a graphical user interface developed in MATLAB App Designer. This tool is designed for the efficient and accurate manual annotation of fiducial points and signal quality in seismocardiography (SCG) signals.
 
