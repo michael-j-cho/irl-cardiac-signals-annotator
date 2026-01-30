@@ -1,8 +1,8 @@
-# SCG Annotation GUI in MATLAB
+# Cardiac Signal Annotation GUI in MATLAB
 
 This repository contains the source code for the "SCG Annotation GUI," a graphical user interface developed in MATLAB App Designer. This tool is designed for the efficient and accurate manual annotation of fiducial points and signal quality in seismocardiography (SCG) signals.
 
-This GUI was developed as part of the research project: SCG-PHD: Expert-Annotated Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validating Cardiac Timings Against Catheterized Measurements.
+This GUI was developed as part of the research project: Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validating Cardiac Timings Against Catheterized Measurements.
 
 [Link to Annotated Dataset (Zenodo)](https://doi.org/10.5281/zenodo.15642875)
 
@@ -100,5 +100,5 @@ The GUI saves a .mat file containing a structure or table with the following inf
 
 This GUI was developed by the researchers at the Inan Research Lab, Georgia Institute of Technology.
 
-    [1] M. Cho, “SCG-PHD: Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validated Cardiac Timings”. Zenodo, Jun. 11, 2025. doi: 10.5281/zenodo.15642875.
+    [1] M. Cho, “Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validated Cardiac Timings”. Zenodo, Jun. 11, 2025. doi: 10.5281/zenodo.15642875.
 
